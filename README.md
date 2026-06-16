@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://orioralabs.com/apple-icon.png" width="76" />
-  <h1>Oriora</h1>
-  <p><b>Start simple. Go as far as you want.</b></p>
+  <img src="https://raw.githubusercontent.com/Orioralabs/Orioralabs/main/banner.png" alt="Oriora — Start simple. Go as far as you want." width="100%" />
 </div>
 
 ---
